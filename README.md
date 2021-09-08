@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QxDruid
-- 👀 I’m interested in Embedded systems and backaend web development on python (flask/django/etc.).
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on diffrent web project as junior backend developer.
+- 👀 I’m interested in Devops practices and backend web development on python (flask/django/etc.).
+- 🌱 I’m currently learning ansible
+- 💞️ I’m looking to collaborate on diffrent web project as junior ops/developer.
 - 📫 How to reach me - savelyev.eg@gmail.com
 
 <!---
