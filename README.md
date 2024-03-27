@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QxDruid
-- 👀 I’m interested in DevOps practices and backend web development on Python3 (Flask/Django/etc.).
-- 🌱 I’m currently learning Ansible
-- 💞️ I’m looking to collaborate on different web projects as junior ops/developer.
+- 👀 I’m interested in DevOps practices and backend development on Python3.
+- 🌱 I’m currently learning Ansible, Prometheus
+- 💞️ I’m looking to collaborate on different web projects as trainee/junior DevOps.
 - 📫 How to reach me - savelyev.eg@gmail.com
 
 <!---
