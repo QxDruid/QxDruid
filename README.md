@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @QxDruid
-- 👀 I’m interested in DevOps practices and backend development on Python3.
-- 🌱 I’m currently learning Ansible, Prometheus
-- 💞️ I’m looking to collaborate on different web projects as trainee/junior DevOps.
+- 👀 I’m interested in DevOps practices in AR/VR, Desktop and Web development.
 - 📫 How to reach me - savelyev.eg@gmail.com
 
 <!---
